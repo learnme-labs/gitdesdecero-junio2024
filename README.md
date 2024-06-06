@@ -6,6 +6,20 @@
 
 ## Comenzando
 
+### Instalacion
+
 ## Comandos
+
+| comando | descripcion | ejemplos |
+| ----- | ----- | ----- |
+| init |  |  |
+| status |  |  |
+| log |  |  |
+| add |  |  |
+| commit |  |  |
+| remote |  |  |
+| fetch  |  |  |
+| pull |  |  |
+| push |  |  |
 
 ## Lanzando el proyecto
