@@ -9,6 +9,12 @@ lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+# ejemplos:
+#   report.123327.json
+#   report.127.json
+#   report.1111.1111.json
+# no validos
+#   report123327.json
 
 # Runtime data
 pids
@@ -128,3 +134,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# SI ES VALIDO ->
+temporal/*.jpg
+*/*.jpg

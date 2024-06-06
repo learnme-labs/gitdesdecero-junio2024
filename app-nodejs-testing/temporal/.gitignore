@@ -1,0 +1,13 @@
+# .gitignore
+
+# definicion para ignorar archivos tipo ".txt"
+*.txt
+
+# definicion para ignorar la carpeta log
+log/
+
+# definicion para ignorar todo el contenido de la carpeta "swap"
+swap/*
+
+# definicion no valida
+../*.txt
