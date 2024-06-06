@@ -258,3 +258,11 @@ Regresa un archivo a un estado anterior (pero perdiendo todos su cambios posteri
 `git checkout`
 
 Con archivos: me permite despreciar los ultimos cambios hasta el ultimo punto en el
+
+`git remote`
+
+`git fetch`
+
+`git pull`
+
+`git push`
