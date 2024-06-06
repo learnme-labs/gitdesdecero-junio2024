@@ -7,7 +7,8 @@ var logger = require('morgan');
 // cargando archivos manejadores de rutas
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
-var accountsRouter = require('./routes/account');
+var accountsRouter = require('./routes/accounts');
+var logsRouter = require('./routes/log');
 // var billingsRouter = require('./routes/billings');
 
 
@@ -26,6 +27,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/accounts', accountsRouter);
+app.use('/logs', logsRouter);
 // app.use('/admin/billing', billingsRouter);
 
 // catch 404 and forward to error handler
