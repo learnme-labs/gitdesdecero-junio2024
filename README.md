@@ -13,3 +13,7 @@
 ```bash
 ...$ npm run start
 ```
+
+```bash
+...$ npm run test API-Account.js
+```
