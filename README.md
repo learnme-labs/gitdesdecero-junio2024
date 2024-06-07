@@ -9,3 +9,7 @@
 ## Comandos
 
 ## Lanzando el proyecto
+
+```bash
+...$ npm run start
+```
